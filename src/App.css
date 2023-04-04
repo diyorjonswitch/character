@@ -1,0 +1,90 @@
+body{
+    font-family: 'Kalam', cursive;
+    width: 100%;
+    background-color: beige;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: center;
+    display: flex;
+}
+.images{
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+}
+.card{
+    width: 400px;
+    height: auto;
+    text-align: center;
+}
+.cards{
+    width: 1200px;
+    display: grid;
+    /* border: 1px solid; */
+    text-align: center;
+    justify-content: center;
+    margin-top: -150px;
+}
+
+.locationcards{
+    height: 200px;
+    background-color: aliceblue;
+    border: 1px solid;
+    align-items: center;
+    margin-top: 20px;
+    justify-content: center;
+    text-align: center;
+}
+.input{
+    text-align: center;
+    justify-content: center;
+    width: 500px;
+    border-radius: 10px;
+    align-items: center;
+    margin: 0 auto;
+    margin-left: 300px;
+    margin-top: 20px;
+    
+}
+.btn{
+    margin: 0 auto;
+    margin-left: 0px;
+    display: flex;
+    margin-top: 20px;
+    border:  1px solid;
+    /* position: absolute; */
+}
+.Container{
+   text-align: center;
+   background-color: aliceblue;
+   margin-top: 10rem;
+}
+.input2{
+    text-align: center;
+    justify-content: center;
+    width: 500px;
+    border-radius: 10px;
+    align-items: center;
+    margin: 0 auto;
+    margin-left: 300px;
+    margin-top: 20px;
+    
+}
+.selected{
+    text-align: center;
+    justify-content: center;
+    width: 400px;
+    border-radius: 10px;
+    align-items: center;
+    margin: 0 auto;
+    margin-left: 430px;
+    margin-top: 20px;
+    
+}
+.like{
+    border: 1px solid;
+    width: 100px;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
